@@ -1,0 +1,4 @@
+/* Front-end styles */
+.efb_menu {display:flex; font-size:70%;}
+.efb_menu img{width:20% ; margin-right:10px;}
+.efb_menu a, span.sep {display: inline-flex;}
